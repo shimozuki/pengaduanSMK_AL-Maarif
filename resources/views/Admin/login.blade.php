@@ -23,7 +23,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-5">
-                <h2 class="text-center text-white mb-0 mt-5">SMK YPC Tasikmalaya</h2>
+                <h2 class="text-center text-white mb-0 mt-5">SMK AL-Ma'arif</h2>
                 <P class="text-center text-white mb-5">Pengaduan Siswa</P>
                 <div class="card mt-5">
                     <div class="card-body">

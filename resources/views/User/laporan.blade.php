@@ -81,7 +81,7 @@
                 <div>
                     <img src="{{ asset('images/user_default.svg') }}" alt="user profile" class="photo">
                     <div class="self-align">
-                        <h5><a style="color: #6a70fc" href="#">{{ Auth::guard('siswa')->user()->nama }}</a></h5>
+                        <h5><a style="color: #2E6F40" href="#">{{ Auth::guard('siswa')->user()->nama }}</a></h5>
                         <p class="text-dark">{{ Auth::guard('siswa')->user()->email }}</p>
                     </div>
                     <div class="row text-center">

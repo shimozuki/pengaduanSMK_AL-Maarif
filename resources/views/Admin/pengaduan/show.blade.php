@@ -12,7 +12,7 @@
             color: #6c7576;
         }
         .btn-purple{
-            background: #6a70fc;
+            background: #2E6F40;
             border: 1px solid;
             color: white;
             width: 100%;

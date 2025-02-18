@@ -3,11 +3,11 @@
 @section('css')
 <style>
     body {
-        background: #6a70fc;
+        background: #2E6F40;
     }
 
     .btn-purple {
-        background: #6a70fc;
+        background: #2E6F40;
         width: 100%;
         color: #fff;
     }
